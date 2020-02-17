@@ -1,0 +1,14 @@
+body { 
+	background-image: url("../../img/ofuda_back.png"); 
+}
+
+.zoomwall { 
+	display: block; 
+	width: 95%; 
+	max-width: 800px; 
+	margin: auto; 
+	position: absolute; 
+	top: 50px; 
+	left: 0; 
+	right: 0; 
+}
